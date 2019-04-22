@@ -1,3 +1,3 @@
 #python 2.7.15
 
-print "Hello, Bakullizta.  how are you??!"
+echo "Hello, Bakullizta.  how are you??!"
